@@ -35,7 +35,7 @@ read -r -d '' items <<EOF || true
             "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/chimera_thumb.png"
           },
           "ProfileImageUri": {
-            "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/chimera_hover.png"
+            "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/chimera_thumb.png"
           },
           "Likes": {
             "N": "0"
@@ -74,7 +74,7 @@ read -r -d '' items <<EOF || true
             "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/cyclops_thumb.png"
           },
           "ProfileImageUri": {
-            "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/cyclops_hover.png"
+            "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/cyclops_thumb.png"
           },
           "Likes": {
             "N": "0"
@@ -113,7 +113,7 @@ read -r -d '' items <<EOF || true
             "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/dragon_thumb.png"
           },
           "ProfileImageUri": {
-            "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/dragon_hover.png"
+            "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/dragon_thumb.png"
           },
           "Likes": {
             "N": "0"
@@ -152,7 +152,7 @@ read -r -d '' items <<EOF || true
             "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/gorgon_thumb.png"
           },
           "ProfileImageUri": {
-            "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/gorgon_hover.png"
+            "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/gorgon_thumb.png"
           },
           "Likes": {
             "N": "0"
@@ -191,7 +191,7 @@ read -r -d '' items <<EOF || true
             "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/yeti_thumb.png"
           },
           "ProfileImageUri": {
-            "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/yeti_hover.png"
+            "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/yeti_thumb.png"
           },
           "Likes": {
             "N": "0"
@@ -230,7 +230,7 @@ read -r -d '' items <<EOF || true
             "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/kraken_thumb.png"
           },
           "ProfileImageUri": {
-            "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/kraken_hover.png"
+            "S": "https://web.archive.org/web/20220405142134im_/https://www.mythicalmysfits.com/images/kraken_thumb.png"
           },
           "Likes": {
             "N": "0"
